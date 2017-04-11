@@ -1,7 +1,7 @@
 Usage:
-
+```
 "./sc" ["-" ("s"|"c"|"t"|"a"|"i")] [filename]
-
+```
 
 Compiler for the SIMPLE programming language, written in Java. In order to compile a SIMPLE program to ARM assembly, 
 first run "make" and then "./sc [filename]". In order to interpret a SIMPLE program, instead run "./sc -i [filename]". The other
