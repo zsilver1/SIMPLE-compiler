@@ -1,0 +1,3 @@
+Usage:
+
+"./sc" ["-" ("s"|"c"|"t"|"a"|"i")] [filename]
